@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vch_short_psychedelic_5/precache-manifest.c30b166627b394033b4c33cd4270bc01.js"
+  "/vch_short_psychedelic_5/precache-manifest.89e74a0faf26c615f5cd0ce7fc290a1c.js"
 );
 
 workbox.clientsClaim();
